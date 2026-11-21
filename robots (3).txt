@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap:  https://arshidarameesha-hub.github.io/shanaa/
